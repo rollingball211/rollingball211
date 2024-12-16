@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=HEY!+WELLCOME+TO+ JINHYEON'S GITHUB😆">
+    </a>
+</div>
 
 <div align = "center">
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" style="height:20px;">
