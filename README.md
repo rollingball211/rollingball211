@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 ![ball's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollingball211&show_icons=true&theme=radical)
 
 ### Baekjoon Online Judge Solved Rank (:hatching_chick:)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=backspace22)](https://solved.ac/wlsgusdl98)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsgusdl98)](https://solved.ac/wlsgusdl98)
 
 </div>
