@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=HI!+WELLCOME+TO+ JINHYEON'S GITHUB!!!">
+        <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=HI!+WELLCOME+TO+ JINHYEON'S GITHUB!!">
     </a>
 </div>
 
