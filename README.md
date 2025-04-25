@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" />
 
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=HI!+WELLCOME+TO+ JINHYEON'S GITHUB!!">
-    </a>
-</div>
-
 <h3 align="left">🛠 Tech Stack! 🛠</h3>
 <div align = "center">
     
