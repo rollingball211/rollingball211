@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=next.js&logoColor=white"/> 
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
-  
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-0058CC?style=for-the-badge&logo=typescript&logoColor=white">
 
 </div>
 
