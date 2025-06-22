@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" />
 
 
-<h3 align="left">🛠 Tech Stack! 🛠</h3>
+<h3 align="left">🛠 Tech Stack!! 🛠</h3>
 <div align = "center">
     
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" style="height:20px;">
