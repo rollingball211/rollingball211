@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+7/9-21 아르바이트로 깃허브 업데이트를 못했습니다
+25일부터 다시 학습 시작합니다!
 <!--
 **rollingball211/rollingball211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
