@@ -1,4 +1,7 @@
 ## Hi there 👋
+[진현의 노션 포트폴리오](https://useful-capri-975.notion.site/Jinhyeon-s-notion-134878dac63080b6ad33c62221fc0fb1)
+
+
 <!--
 **rollingball211/rollingball211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
