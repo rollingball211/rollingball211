@@ -1,8 +1,11 @@
 ## Hi there 👋
-[진현의 노션 포트폴리오 바로가기! 클릭](https://useful-capri-975.notion.site/Jinhyeon-s-notion-134878dac63080b6ad33c62221fc0fb1)
-[1:1 프로젝트 링크] https://teamsparta.notion.site/11-1-1-2b52dc3ef514819fa2d1ceb170087d4b?pvs=25
-[LuckyVickyLogistics 물류 B2B 서비스]https://teamsparta.notion.site/7-29d2dc3ef514802fab7bcdc97d138a20
-[1타 6P 프로젝트내용]https://teamsparta.notion.site/3-1-6P-27a2dc3ef51481b1a0abdd6cb0bd6b3f
+* [진현의 노션 포트폴리오 바로가기! 클릭](https://useful-capri-975.notion.site/Jinhyeon-s-notion-134878dac63080b6ad33c62221fc0fb1)
+
+* [1:1 프로젝트 링크](https://teamsparta.notion.site/11-1-1-2b52dc3ef514819fa2d1ceb170087d4b?pvs=25)
+
+* [LuckyVickyLogistics 물류 프로젝트 링크](https://teamsparta.notion.site/7-29d2dc3ef514802fab7bcdc97d138a20)
+
+* [Goat-Gam 배달 MVP 서비스 프로젝트 링크](https://teamsparta.notion.site/3-1-6P-27a2dc3ef51481b1a0abdd6cb0bd6b3f)
 
 
 
