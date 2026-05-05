@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" />
 
 ## Hi there 👋
-문제를 정의하고 데이터를 기반으로 증명하고 소통하는 개발자, 김진현입니다.
+문제를 정의하고 데이터를 기반으로 소통하는 개발자, 김진현입니다.
 
 - [진현의 노션 포트폴리오 바로가기! 클릭](https://useful-capri-975.notion.site/Jinhyeon-s-notion-134878dac63080b6ad33c62221fc0fb1)
 
